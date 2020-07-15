@@ -13,7 +13,7 @@ What can be better than a cup of coffee during a break? A coffee that you don’
 ### Learning outcomes
 This project allows you to get a taste of Java. Practice working with classes, challenge yourself with loops and conditions, and get more confident in Java.
 
-### Puedes conocer el requerimiento al que este programa da solución consultando el archivo
+### Puedes conocer el requerimiento al que este programa da solución consultando el archivo "Descripcion.txt"
 
 #### Aprender en JetBrains Academy
 
